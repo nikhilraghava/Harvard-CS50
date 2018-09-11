@@ -1,6 +1,6 @@
 # Harvard CS50: Introduction to Computer Science
 
-My solutions to Harvard University's CS50 Introduction to Computer Science course offered at edX. I used both CS50's [CS50 IDE](cs5.io) and my own text editor (Sublime Text) on Linux (Ubuntu) and macOS respectively, together with CS50's C library - [libcs50](https://github.com/cs50/libcs50). Library references can be found [here](https://reference.cs50.net)
+My solutions to Harvard University's CS50 Introduction to Computer Science course offered at edX. I used both CS50's [CS50 IDE](cs5.io) and my own text editor (Sublime Text) on Linux (Ubuntu) and macOS respectively, together with CS50's C library - [libcs50](https://github.com/cs50/libcs50). Library references can be found [here](https://reference.cs50.net).
 
 ## CS50 IDE vs Local Development Environment
 
