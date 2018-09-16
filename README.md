@@ -10,6 +10,27 @@ The teaching staff at Harvard CS50 have taken time to preconfigure the CS50 IDE 
 clang -o [output file name] [file name].c -lcs50
 ```
 
+If you don't want to type out the clang command everytime you want to compile your C file, you can configure Make temporarily by executing the following commands in terminal.
+
+```bash
+cd
+nano ~/.bash_profile
+```
+
+Paste the following lines at the beginning of the file and save it.
+
+```bash
+export CC="clang"
+export CFLAGS="-ggdb3 -O0 -std=c99 -Wall -Werror"
+export LDLIBS="-lcs50 -lm"
+```
+
+Now, to compile your C files:
+
+```bash
+make [name of C file without the .c extension]
+``` 
+
 ## License
 
 Licensed under [GNU General Public License](https://github.com/nikhilraghava/Harvard-CS50/blob/master/LICENSE).
