@@ -8,8 +8,7 @@
 // Function prototypes
 int iter_sum(int num);
 
-int main(void)
-{
+int main(void) {
     // Initialize the credit card variable
     long long credit, temp_credit;
 
@@ -44,8 +43,7 @@ int main(void)
     }
 
     // Calculate and check if checksum is valid
-    if ((second_to_last + last_sum) % 10 == 0)
-    {
+    if ((second_to_last + last_sum) % 10 == 0) {
         // Length of credit card number
         int length = iter - 1;
 
@@ -78,8 +76,7 @@ int main(void)
     }
 }
 
-int iter_sum(int num)
-{
+int iter_sum(int num) {
     // Initialize the sum
     int sum = 0;
 

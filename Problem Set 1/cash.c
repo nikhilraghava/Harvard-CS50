@@ -5,8 +5,7 @@
 #include <math.h>
 #include <stdio.h>
 
-int main(void)
-{
+int main(void) {
     // Initialize the change
     int cents;
     

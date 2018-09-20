@@ -3,8 +3,7 @@
 // Problem Set 1
 #include <stdio.h>
 
-int main(void)
-{
+int main(void) {
     // Prints hello, world onto the terminal
     printf("hello, world\n");
 }
