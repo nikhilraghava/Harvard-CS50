@@ -31,6 +31,20 @@ Now, to compile your C files:
 make [name of C file without the .c extension]
 ``` 
 
+## Progress
+
+The table below shows my scores for the weekly problem set submissions.
+
+|    Problem   | Correctness (out of 5) | Style (out of 5) | Score |
+|:------------:|:----------------------:|:----------------:|:-----:|
+|    Scratch   |            5           |         -        |  100% |
+|     Hello    |            5           |         5        |  100% |
+| Mario (Less) |            5           |         5        |  100% |
+| Mario (More) |            5           |         5        |  100% |
+|     Cash     |            5           |         5        |  100% |
+|    Credit    |            5           |         5        |  100% |
+
+
 ## License
 
 Licensed under [GNU General Public License](https://github.com/nikhilraghava/Harvard-CS50/blob/master/LICENSE).
