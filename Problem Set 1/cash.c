@@ -9,17 +9,15 @@ int main(void)
 {
     // Initialize the change
     int cents;
-
+    
     // Initialize the number of coins
     int coins = 0;
 
     // Prompt the user input, reprompt if input is invalid
-    do
-    {
+    do {
         // Convert dollars to cents, round off and cast to int
         cents = (int) round(get_float("Change owed: ") * 100);
-    }
-    while (cents <= 0);
+    } while (cents <= 0);
 
     // Calculate the minimum number of coins to be returned
     // Number of quarters (25¢)
