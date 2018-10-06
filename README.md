@@ -43,6 +43,8 @@ The table below shows my scores for the weekly problem set submissions.
 | Mario (More) |            5           |         5        |  100% |
 |     Cash     |            5           |         5        |  100% |
 |    Credit    |            5           |         5        |  100% |
+|    Caesar    |            5           |         5        |  100% |
+|   Vigenere   |            5           |         5        |  100% |
 
 
 ## License
