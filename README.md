@@ -45,6 +45,7 @@ The table below shows my scores for the weekly problem set submissions.
 |    Credit    |            5           |         5        |  100% |
 |    Caesar    |            5           |         5        |  100% |
 |   Vigenere   |            5           |         5        |  100% |
+|    Crack     |            5           |         5        |  100% |
 
 
 ## License
